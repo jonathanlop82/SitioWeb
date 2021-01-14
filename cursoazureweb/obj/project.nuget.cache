@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uANVAbD373u/rPvMy2LmP6q3FnDDh38xRFxPGIa27sg8Z8eeYUgRrYsuomQeb0FG7kxT0o428zBUkYOI5hu+7A==",
+  "dgSpecHash": "92/62y4j7d8StbXxRtuhw/uE4t8h4mrV2yPVm4TOAhYn706GFvjewj26q8TzZnAMJ+H8hwftwrcMQ0MBXwdCTw==",
   "success": true,
-  "projectFilePath": "/Users/tecnologia/curso_azure/cursoazureweb/cursoazureweb.csproj",
+  "projectFilePath": "/Users/tecnologia/curso_azure/SitioWeb/cursoazureweb/cursoazureweb.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

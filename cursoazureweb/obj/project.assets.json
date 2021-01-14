@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tecnologia/curso_azure/cursoazureweb/cursoazureweb.csproj",
+      "projectUniqueName": "/Users/tecnologia/curso_azure/SitioWeb/cursoazureweb/cursoazureweb.csproj",
       "projectName": "cursoazureweb",
-      "projectPath": "/Users/tecnologia/curso_azure/cursoazureweb/cursoazureweb.csproj",
+      "projectPath": "/Users/tecnologia/curso_azure/SitioWeb/cursoazureweb/cursoazureweb.csproj",
       "packagesPath": "/Users/tecnologia/.nuget/packages/",
-      "outputPath": "/Users/tecnologia/curso_azure/cursoazureweb/obj/",
+      "outputPath": "/Users/tecnologia/curso_azure/SitioWeb/cursoazureweb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tecnologia/.nuget/NuGet/NuGet.Config"
